@@ -10,4 +10,4 @@ AQUI TEREMOS DESDE O INICIO OS NOSSOS DESENVOLVIMENTOS
 # Redes
 | Nome                                  |      Link       |
 | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   Jira Software                       |     [![JiraSoftware Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/2560px-Jira_%28Software%29_logo.svg.png)](https://www.linkedin.com/in/fabia-fernandes-a79bb71a5/)             |
+|   Jira Software                       |     [![JiraSoftware Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/2560px-Jira_%28Software%29_logo.svg.png)]([https://www.linkedin.com/in/fabia-fernandes-a79bb71a5/](https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software)https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software)             |
