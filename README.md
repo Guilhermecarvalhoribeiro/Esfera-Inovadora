@@ -11,3 +11,4 @@ AQUI TEREMOS DESDE O INICIO OS NOSSOS DESENVOLVIMENTOS
 |      Links       |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     [![JiraSoftware Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/2560px-Jira_%28Software%29_logo.svg.png)](https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software)             |
+![d6315f37f2262496228462ef732e83b1-PhotoRoom png-PhotoRoom](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/853c4b4d-016b-4e4a-b605-bc08c2a78c42)
