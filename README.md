@@ -11,4 +11,4 @@ AQUI TEREMOS DESDE O INICIO OS NOSSOS DESENVOLVIMENTOS
 |      Links       |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     [![JiraSoftware Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/2560px-Jira_%28Software%29_logo.svg.png)](https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software)             |
-|     [![Instagram Badge](https://logospng.org/wp-content/uploads/instagram.jpg)](https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software)             |
+|     [![Instagram Badge](https://freelogopng.com/images/all_img/1658587597instagram-png-image.png)](https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software)             |
