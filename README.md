@@ -11,5 +11,5 @@ AQUI TEREMOS DESDE O INICIO OS NOSSOS DESENVOLVIMENTOS
 
 |      Links       |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |         
-|   ![Design sem nome (8)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/dfc41ce9-6c13-494a-a4fc-a902285c1db6)
+|   ![Jira Software (5)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/92d874ba-2d74-4721-8402-b30cd8a4dce2)
 |    ![Design sem nome (8)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/f4e46aaa-5dad-49e9-bc09-e6dc37d72b12)    |
