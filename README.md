@@ -11,6 +11,6 @@ AQUI TEREMOS DESDE O INICIO OS NOSSOS DESENVOLVIMENTOS
 
 |      Links       |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |         
-|     ![Design sem nome (7)-PhotoRoom png-PhotoRoom](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/a884298d-c916-48c0-99bb-e4137dec686a)
-|      ![Jira Software (3)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/22556988-6970-427d-9865-0b6fb7cf268b)
+|    ![Jira Software (5)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/28af91b1-e210-4355-b2f2-f567f5883bcf)
+|       ![Design sem nome (7)-PhotoRoom png-PhotoRoom](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/a884298d-c916-48c0-99bb-e4137dec686a)
 |     [![JiraSoftware Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/2560px-Jira_%28Software%29_logo.svg.png)](https://www.linkedin.com/in/fabia-fernandes-a79bb71a5/) |
