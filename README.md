@@ -15,3 +15,5 @@ AQUI TEREMOS DESDE O INICIO OS NOSSOS DESENVOLVIMENTOS
 |         ![Design sem nome (6)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/ee294af2-99fa-41b3-8058-caf1bbd18781)
 
                     |
+|     ![Design sem nome (7)-PhotoRoom png-PhotoRoom](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/a884298d-c916-48c0-99bb-e4137dec686a)
+               |
