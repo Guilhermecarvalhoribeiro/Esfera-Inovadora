@@ -17,5 +17,6 @@ AQUI TEREMOS DESDE O INICIO OS NOSSOS DESENVOLVIMENTOS
                     |
 |     ![Design sem nome (7)-PhotoRoom png-PhotoRoom](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/a884298d-c916-48c0-99bb-e4137dec686a)
                |
-|   ![Jira Software-PhotoRoom png-PhotoRoom](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/68187f6d-d8cf-4cc8-ab87-ca18a2db749f)
+|   ![Jira Software-PhotoRoom png-PhotoRoom](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/594a9cb3-e5e2-4fab-9725-c61a7adcd008)
+
        |
