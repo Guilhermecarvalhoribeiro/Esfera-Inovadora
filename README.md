@@ -71,6 +71,8 @@ respostas objetivas.
 
 * Valores: Planejamento, Organização, Qualidade, Responsabilidade e Comprometimento.
 
+![eb4d5f39-8612-4a0a-ad24-b5fe210508b9](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e6eabf52-9218-44a3-ad80-b429fc9ca8fd)
+
 # Cronograma
 
 Sprint | Previsão | Status|
