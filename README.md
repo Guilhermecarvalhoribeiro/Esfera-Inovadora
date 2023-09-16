@@ -80,5 +80,5 @@ respostas objetivas.
 
 |      Links       |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |            
-|    [![JiraSoftware Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820843-92d874ba-2d74-4721-8402-b30cd8a4dce2.png)](https://www.linkedin.com/in/fabia-fernandes-a79bb71a5/)     
+|    [![JiraSoftware Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820843-92d874ba-2d74-4721-8402-b30cd8a4dce2.png)](https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software)     
 |    [![JiraSoftware Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820260-f4e46aaa-5dad-49e9-bc09-e6dc37d72b12.png)](https://www.instagram.com/esfera_inovadora/)
