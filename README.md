@@ -4,6 +4,7 @@
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # Índice
 
 * Projeto
@@ -15,11 +16,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * Competências desenvolvidas
 * Autores
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # Equipe
 
 | Aluno         | Função           	
@@ -36,6 +39,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 ![f1a3921b-b818-4f54-a36d-c8ff2b491fd6](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/599320a0-0ec0-4463-9ba6-bdae00a5563f)
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # Objetivo do Projeto
 * Mapeamento de cargas de importação e exportação;
 * Organizar e estruturar as informações;
@@ -52,6 +56,7 @@ tomarem decisões mais seguras sobre a logística do
 mercado, com a tecnologia e inovação ao nosso
 alcance.
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # COMEXSTAT
 O Comex Stat um sistema para consultas e extração de
 dados do comércio exterior brasileiro. São divulgados
@@ -63,7 +68,7 @@ dados do governo de cada região para trazer
 informações concretas para nossos clientes com
 respostas objetivas.
 
-
+------------------------------------------------------------------------------------------------------------------------------------------
 # A *ESFERA INOVADORA*
 
 * Missão: Temos como missão entregar todos os resultados com qualidade.
@@ -74,6 +79,7 @@ respostas objetivas.
 
 ![Picsart_23-09-16_19-43-27-494](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/bb03757e-61fb-496d-9f7f-476ea0f8c98d)
 
+------------------------------------------------------------------------------------------------------------------------------------------
 # Cronograma
 
 Sprint | Previsão | Status|
