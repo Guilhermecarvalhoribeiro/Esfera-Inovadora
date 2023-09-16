@@ -1,4 +1,4 @@
-# 🌐 ESFERA INOVADORA 
+# 🌐 _ESFERA INOVADORA_
 
 # _Que bom ter você aqui! Temos certeza que vamos entregar grandes resultados para sua empresa._
 
