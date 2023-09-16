@@ -29,16 +29,19 @@ Sprint | Previsão | Status| Histórico|
 |03| 27/11/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 # Equipe
-![6cd774f8-34b0-4bba-b52f-304a22f6309b](https://github.com/Guilhermecarvalhoribeiro/Teste/assets/141978882/46060f12-8fdd-4d89-ab2e-a2a579a50bb8)
-* _Guilherme Carvalho - Product Owner_
-* _Pedro Augusto - Scrum Master_
-* _Maiara Oliveira - Developer Team_
-* _Marcos Paulo - Developer Team_
-* _Maria Rosanelle - Developer Team_
-* _Pedro Henrique - Developer Team_
-* _Paulo Ribeiro - Developer Team_
-* _Fabia Mara - Developer Team_
 
+| Aluno         | Função           	
+| ---------------- | ---------------- 
+|__Guilherme Carvalho__  | *Product Owner*  
+|__Pedro Augusto__| *Scrum Master* 
+|__Maiara Oliveira__  | *Developer Team*  
+|__Marcos Paulo__  | *Developer Team* 
+|__Maria Rosanelle__ | *Developer Team* 
+|__Pedro Henrique__| *Developer Team*
+|__Paulo Ribeiro__| *Developer Team*
+|__Fábia Mara__| *Developer Team*
+
+![6cd774f8-34b0-4bba-b52f-304a22f6309b](https://github.com/Guilhermecarvalhoribeiro/Teste/assets/141978882/46060f12-8fdd-4d89-ab2e-a2a579a50bb8)
 
 # Objetivo do Projeto
 * Mapeamento de cargas de importação e exportação;
