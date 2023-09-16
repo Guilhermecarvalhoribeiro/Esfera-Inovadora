@@ -57,7 +57,7 @@ mercado, com a tecnologia e inovação ao nosso
 alcance.
 
 # COMEXSTAT
-* O Comex Stat um sistema para consultas e extração de
+O Comex Stat um sistema para consultas e extração de
 dados do comércio exterior brasileiro. São divulgados
 mensalmente os dados detalhados das exportações e
 importações brasileiras, extraídas do SISCOMEX e
