@@ -10,10 +10,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * Equipe
 * Objetivo do Projeto
 * Registros (vídeos e apresentações) das sprints
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
-* [Backlog do produto](#Backlog-do-produto)
-* [Competências desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
+* Cronograma das Sprints
+* Backlog do produto
+* Competências desenvolvidas
+* Autores
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -72,7 +72,7 @@ respostas objetivas.
 
 * Missão: Temos como missão entregar todos os resultados com qualidade.
 
-* Visão: Evoluir conforme o mercado tornando-sereferência com grandes feedbacks positivos.
+* Visão: Evoluir conforme o mercado tornando-se referência com grandes feedbacks positivos.
 
 * Valores: Planejamento, Organização, Qualidade, Responsabilidade e Comprometimento.
 
