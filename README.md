@@ -33,7 +33,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |__Paulo Ribeiro__| *Developer Team*
 |__Fábia Mara__| *Developer Team*
 
-![6cd774f8-34b0-4bba-b52f-304a22f6309b](https://github.com/Guilhermecarvalhoribeiro/Teste/assets/141978882/46060f12-8fdd-4d89-ab2e-a2a579a50bb8)
+![2a1c18d5-c2b7-43a3-8882-dca65ab24579](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/10a9440a-949c-4e97-87a0-6352e93bbee4)
 
 # Objetivo do Projeto
 * Mapeamento de cargas de importação e exportação;
