@@ -9,8 +9,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * Projeto
 * Equipe
 * Objetivo do Projeto
-* Registros (vídeos e apresentações) das sprints
 * Cronograma das Sprints
+* Registros (vídeos e apresentações) das sprints
 * Backlog do produto
 * Competências desenvolvidas
 * Autores
@@ -20,14 +20,6 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-Sprint | Previsão | Status|
-|------|--------|------
-|Kick Off | 04/09/2023 | Concluido |
-|00 | 25/09/2023 | Em progresso| 
-|01|  16/10/2023| A fazer| 
-|02| 06/11/2023 | A fazer|
-|03| 27/11/2023 |A fazer | 
-|Feira de Soluções|12/12/2023 |A fazer|
 # Equipe
 
 | Aluno         | Função           	
@@ -79,7 +71,18 @@ respostas objetivas.
 
 * Valores: Planejamento, Organização, Qualidade, Responsabilidade e Comprometimento.
 
-------------------------------------------------------------------------------------------------------------------------------------------
+# Cronograma
+
+Sprint | Previsão | Status|
+|------|--------|------
+|Kick Off | 04/09/2023 | Concluido |
+|00 | 25/09/2023 | Em progresso| 
+|01|  16/10/2023| A fazer| 
+|02| 06/11/2023 | A fazer|
+|03| 27/11/2023 |A fazer | 
+|Feira de Soluções|12/12/2023 |A fazer|
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
