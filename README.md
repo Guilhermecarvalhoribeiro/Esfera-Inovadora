@@ -1,4 +1,5 @@
-![Picsart_23-09-16_22-40-39-922](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/c880c7dd-04f8-4db4-b50a-a09cefd6c94a)
+![Picsart_23-09-16_22-53-43-931](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/77370a3c-79f7-4c91-ac3a-01f384d24c97)
+
 
 
 # _Que bom ter você aqui! Temos certeza que vamos entregar grandes resultados para sua empresa._
