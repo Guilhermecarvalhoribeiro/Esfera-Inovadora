@@ -98,7 +98,9 @@ Sprint | Previsão | Status|
 |03| 27/11/2023 |A fazer | 
 |Feira de Soluções|12/12/2023 |A fazer|
 
+# Registros (vídeos e apresentações) das sprints
 
+EM PROGRESSO...
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
