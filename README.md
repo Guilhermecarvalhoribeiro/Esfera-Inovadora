@@ -7,7 +7,7 @@
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# Índice
+# *ÍNDICE*
 
 * Projeto
 * Equipe
@@ -19,17 +19,17 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * Autores
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# Projeto (API) 
+# *PROJETO (API)* 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
-# TECNOLOGIAS QUE SERÃO UTILIZADAS
+# *TECNOLOGIAS QUE SERÃO UTILIZADAS*
 
 ![Picsart_23-09-16_23-46-54-235](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6b2013b9-5234-40b2-ba70-fbeaceddd1a8)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# Equipe
+# *EQUIPE*
 
 | Aluno         | Função           	
 | ---------------- | ---------------- 
@@ -45,7 +45,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 ![Picsart_23-09-16_23-18-07-580](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/2fdbfd60-f418-4505-8175-8f94d419b2d3)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# Objetivo do Projeto
+# *OBJETIVO DO PROJETO*
 * Mapeamento de cargas de importação e exportação;
 * Organizar e estruturar as informações;
 * Visionar e controlar as alterações;
@@ -62,7 +62,7 @@ mercado, com a tecnologia e inovação ao nosso
 alcance.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# COMEXSTAT
+# *COMEXSTAT*
 O Comex Stat um sistema para consultas e extração de
 dados do comércio exterior brasileiro. São divulgados
 mensalmente os dados detalhados das exportações e
@@ -74,7 +74,7 @@ informações concretas para nossos clientes com
 respostas objetivas.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# A *ESFERA INOVADORA*
+# *A ESFERA INOVADORA*
 
 * Missão: Temos como missão entregar todos os resultados com qualidade.
 
@@ -86,7 +86,7 @@ respostas objetivas.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# Cronograma
+# *Cronograma*
 
 Sprint | Previsão | Status|
 |------|--------|------
