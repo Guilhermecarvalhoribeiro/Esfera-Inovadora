@@ -1,4 +1,5 @@
-# 🌐 _ESFERA INOVADORA_
+![Picsart_23-09-16_22-40-39-922](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/c880c7dd-04f8-4db4-b50a-a09cefd6c94a)
+
 
 # _Que bom ter você aqui! Temos certeza que vamos entregar grandes resultados para sua empresa._
 
