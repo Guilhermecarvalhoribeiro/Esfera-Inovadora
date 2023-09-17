@@ -38,8 +38,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |__Paulo Ribeiro__| *Developer Team*
 |__Fábia Mara__| *Developer Team*
 
-![f1a3921b-b818-4f54-a36d-c8ff2b491fd6](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/599320a0-0ec0-4463-9ba6-bdae00a5563f)
-
+![Picsart_23-09-16_23-18-07-580](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/2fdbfd60-f418-4505-8175-8f94d419b2d3)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Objetivo do Projeto
