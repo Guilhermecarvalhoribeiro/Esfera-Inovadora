@@ -77,7 +77,8 @@ respostas objetivas.
 
 * Valores: Planejamento, Organização, Qualidade, Responsabilidade e Comprometimento.
 
-![Picsart_23-09-16_19-43-27-494](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/bb03757e-61fb-496d-9f7f-476ea0f8c98d)
+![GIF-230916_221947](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6737278e-3d8a-42bb-8425-b7e971a2fa28)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Cronograma
