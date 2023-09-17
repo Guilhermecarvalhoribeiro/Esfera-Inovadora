@@ -99,7 +99,15 @@ Sprint | Previsão | Status|
 |Feira de Soluções|12/12/2023 |A fazer|
 
 # Registros (vídeos e apresentações) das sprints
+EM PROGRESSO...
 
+# Backlog do produto
+EM PROGRESSO...
+
+# Competências desenvolvidas
+EM PROGRESSO...
+
+# Autores
 EM PROGRESSO...
 
 ------------------------------------------------------------------------------------------------------------------------------------------
