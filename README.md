@@ -117,7 +117,7 @@ Sprint | Previsão | Status|
 |Feira de Soluções|12/12/2023 |A fazer|
 
 <details>
-<summary>Sprint 00</summary>
+<summary>Apresentação</summary>
 
 >Backlog
 <div id="top"></div>
