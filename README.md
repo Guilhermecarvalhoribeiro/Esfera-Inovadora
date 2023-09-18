@@ -36,6 +36,10 @@ Com ele podemos trazer inúmeros benefícios para o melhor desenvolvimento do pr
 
 A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, porque, onde, quem irá fazer, quando será feito, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
 
+*GitHub:*
+
+O GitHub é uma plataforma que irá auxiliar em todo desenvolvimento do projeto, criar repositórios e hospedar neles todo o processo de desenvolvimento. O que é GitHub e para que serve? O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git. A plataforma irá nos ajudar a armazenar e administrar todo o processo.
+
 
 ![Picsart_23-09-16_23-46-54-235](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6b2013b9-5234-40b2-ba70-fbeaceddd1a8)
 
