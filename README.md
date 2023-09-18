@@ -28,6 +28,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 # *TECNOLOGIAS QUE SERÃO UTILIZADAS*
 
+* O Jira Software
+Com ele podemos trazer inúmeros benefícios para o melhor desenvolvimento do projeto, entre eles estão: otimização do tempo de trabalho, organização e ordenamento de atendimentos, maior transparência para o projeto, mais praticidade no gerenciamento do mesmo, além de documentação otimizada e emissão de relatórios completos.
+
+
 ![Picsart_23-09-16_23-46-54-235](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6b2013b9-5234-40b2-ba70-fbeaceddd1a8)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
