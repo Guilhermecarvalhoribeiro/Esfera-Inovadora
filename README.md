@@ -5,7 +5,7 @@
 
 # _Que bom ter você aqui! Temos certeza que vamos entregar grandes resultados para sua empresa._
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *ÍNDICE*
@@ -24,7 +24,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # *PROJETO (API)* 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kicko-ff e das sprints.
 
 # *TECNOLOGIAS QUE SERÃO UTILIZADAS*
 
@@ -32,15 +32,15 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 *5W2H:*
 
-A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, porque, onde, quem irá fazer, quando será feito, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
+A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o quê será feito, por que, onde, quem irá fazer, quando será feito, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
 
 *Jira Software:*
 
-Com ele podemos trazer inúmeros benefícios para o melhor desenvolvimento do projeto, entre eles estão: otimização do tempo de trabalho, organização e ordenamento de atendimentos, maior transparência para o projeto, mais praticidade no gerenciamento do mesmo, além de documentação otimizada e emissão de relatórios completos.
+Com ele, podemos trazer inúmeros benefícios para o melhor desenvolvimento do projeto, entre eles estão: otimização do tempo de trabalho, organização e ordenamento de atendimentos, maior transparência para o projeto, mais praticidade no gerenciamento do mesmo, além de documentação otimizada e emissão de relatórios completos.
 
 *Power BI:*
 
-O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvida pela Microsoft. Com ela, dados são transformados em informação. Com o Power BI é possível gerar relatórios e dashboards que mostram números, estatísticas, valores, listas e gráficos de maneira simples e intuitiva. O Power BI é uma ferramenta importantíssima pois com ela iremos extrair os dados fornecidos pela *COMEXSTAT* assim tomarmos decisões estratégicas para grandes resultados.
+O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvida pela Microsoft. Com ela, dados são transformados em informação. Com o Power BI é possível gerar relatórios e dashboards que mostram números, estatísticas, valores, listas e gráficos de maneira simples e intuitiva. O Power BI é uma ferramenta importantíssima, pois com ela iremos extrair os dados fornecidos pela *COMEXSTAT*, assim tomando decisões estratégicas para grandes resultados.
 
 *GitHub:*
 
@@ -99,7 +99,7 @@ respostas objetivas.
 
 * Visão: Evoluir conforme o mercado tornando-se referência com grandes feedbacks positivos.
 
-* Valores: Planejamento, Organização, Qualidade, Responsabilidade e Comprometimento.
+* Valores: Planejamento, organização, qualidade, responsabilidade e comprometimento.
 
 ![GIF-230916_221947](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6737278e-3d8a-42bb-8425-b7e971a2fa28)
 
@@ -109,7 +109,7 @@ respostas objetivas.
 
 Sprint | Previsão | Status|
 |------|--------|------
-|Kick Off | 04/09/2023 | Concluido |
+|Kick Off | 04/09/2023 | Concluído |
 |00 | 25/09/2023 | Em progresso| 
 |01|  16/10/2023| A fazer| 
 |02| 06/11/2023 | A fazer|
