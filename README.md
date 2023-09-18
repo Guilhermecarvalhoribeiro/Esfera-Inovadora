@@ -34,7 +34,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, porque, onde, quem irá fazer, quando será feito, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
 
-*O Jira Software:*
+*Jira Software:*
 
 Com ele podemos trazer inúmeros benefícios para o melhor desenvolvimento do projeto, entre eles estão: otimização do tempo de trabalho, organização e ordenamento de atendimentos, maior transparência para o projeto, mais praticidade no gerenciamento do mesmo, além de documentação otimizada e emissão de relatórios completos.
 
