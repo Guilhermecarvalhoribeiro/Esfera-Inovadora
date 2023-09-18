@@ -98,6 +98,57 @@ Sprint | Previsão | Status|
 |03| 27/11/2023 |A fazer | 
 |Feira de Soluções|12/12/2023 |A fazer|
 
+<details>
+<summary>Sprint 00</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+
+ EM ANDAMENTO...
+     
+![ESFERA INOVADORA_ linha do tempo - Jira - Google Chrome 18_09_2023 00_05_11 (2)](https://github.com/Guilhermecarvalhoribeiro/Teste/assets/141978882/c8d6e6ba-6a29-4fda-b530-6932aa238180)
+
+
+<p align="center">
+  
+</details>
+
+<details>
+<summary>Sprint 01</summary>
+
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+      
+ EM DESENVOLVIMENTO...
+
+</details>
+  
+
+<details>
+<summary>Sprint 02</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+    
+  EM DESENVOLVIMENTO...
+
+</details>
+  
+
+<details>
+<summary>Sprint 03</summary>
+
+>Backlog
+<div id="top"></div>
+<p align="center">
+    
+  EM DESENVOLVIMENTO...
+  
+
 # Registros (vídeos e apresentações) das sprints
 EM PROGRESSO...
 
