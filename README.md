@@ -148,6 +148,9 @@ Sprint | Previsão | Status|
     
   EM DESENVOLVIMENTO...
   
+</details>
+
+<p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
 # Registros (vídeos e apresentações) das sprints
 EM PROGRESSO...
