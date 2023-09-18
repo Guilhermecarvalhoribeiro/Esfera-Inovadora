@@ -1,6 +1,7 @@
 ![Picsart_23-09-16_22-53-43-931](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/77370a3c-79f7-4c91-ac3a-01f384d24c97)
 
 
+<a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-blue"/></a></p>
 
 # _Que bom ter você aqui! Temos certeza que vamos entregar grandes resultados para sua empresa._
 
