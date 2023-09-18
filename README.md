@@ -40,7 +40,7 @@ Com ele podemos trazer inúmeros benefícios para o melhor desenvolvimento do pr
 
 *Power BI:*
 
-O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvida pela Microsoft. Com ela, dados são transformados em informação. Com o Power BI é possível gerar relatórios e dashboards que mostram números, estatísticas, valores, listas e gráficos de maneira simples e intuitiva. O Power BI é uma ferramenta importantíssima pois com ela iremos extrair os dados fornecidos pela *COMEXSTAT* assim tomarmos decisões estratégicas para melhores resultados.
+O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvida pela Microsoft. Com ela, dados são transformados em informação. Com o Power BI é possível gerar relatórios e dashboards que mostram números, estatísticas, valores, listas e gráficos de maneira simples e intuitiva. O Power BI é uma ferramenta importantíssima pois com ela iremos extrair os dados fornecidos pela *COMEXSTAT* assim tomarmos decisões estratégicas para grandes resultados.
 
 *GitHub:*
 
