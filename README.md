@@ -33,7 +33,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 *5W2H:*
 
-A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, por que, onde, quem irá fazer, quando será realizado, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
+:A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, por que, onde, quem irá fazer, quando será :realizado, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.:
 
 *Jira Software:*
 
