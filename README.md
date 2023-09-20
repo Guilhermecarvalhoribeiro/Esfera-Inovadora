@@ -22,9 +22,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *PROJETO (API)* 
-:Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil.: 
-:Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). :
-:Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kick-off e das sprints.:
+\Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kick-off e das sprints.
 
 
 # *TECNOLOGIAS QUE SERÃO UTILIZADAS*
@@ -33,7 +33,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 *5W2H:*
 
-:A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, por que, onde, quem irá fazer, quando será :realizado, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.:
+A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, por que, onde, quem irá fazer, quando será realizado, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
 
 *Jira Software:*
 
