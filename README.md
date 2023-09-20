@@ -3,7 +3,7 @@
 
 <a href="http://fatecsjc-prd.azurewebsites.net/"><img src="https://img.shields.io/badge/INSTITUIÇÃO%3A-FATEC SÃO JOSÉ DOS CAMPOS-blue"/></a></p>
 
-# _Que bom ter você aqui! Temos certeza que vamos entregar grandes resultados para sua empresa._
+# _Que bom ter você aqui! Temos certeza de que vamos entregar grandes resultados para sua empresa._
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividade, autonomia, colaboração e entrega de resultados dos estudantes envolvidos.
 
@@ -11,7 +11,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 # *ÍNDICE*
 
 * Projeto
-* Tecnológias utilizadas
+* Tecnologias utilizadas
 * Equipe
 * Objetivo do Projeto
 * Cronograma das Sprints
@@ -25,6 +25,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kick-off e das sprints.
+
 
 # *TECNOLOGIAS QUE SERÃO UTILIZADAS*
 
