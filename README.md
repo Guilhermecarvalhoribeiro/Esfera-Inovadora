@@ -33,20 +33,19 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 *5W2H:*
 
-A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o quê será feito, por que, onde, quem irá fazer, quando será feito, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
+A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, por que, onde, quem irá fazer, quando será realizado, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
 
 *Jira Software:*
 
-Com ele, podemos trazer inúmeros benefícios para o melhor desenvolvimento do projeto, entre eles estão: otimização do tempo de trabalho, organização e ordenamento de atendimentos, maior transparência para o projeto, mais praticidade no gerenciamento do mesmo, além de documentação otimizada e emissão de relatórios completos.
+Com ele, podemos trazer inúmeros benefícios para o melhor desenvolvimento do projeto, entre eles estão: otimização do tempo de trabalho, organização e ordenamento de atendimentos, maior transparência para o projeto, mais praticidade em seu gerenciamento, além de documentação otimizada e emissão de relatórios completos.
 
 *Power BI:*
 
-O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvida pela Microsoft. Com ela, dados são transformados em informação. Com o Power BI é possível gerar relatórios e dashboards que mostram números, estatísticas, valores, listas e gráficos de maneira simples e intuitiva. O Power BI é uma ferramenta importantíssima, pois com ela iremos extrair os dados fornecidos pela *COMEXSTAT*, assim tomando decisões estratégicas para grandes resultados.
+O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvida pela Microsoft. Com ela, dados são transformados em informação, sendo possível gerar relatórios e dashboards que mostram números, estatísticas, valores, listas e gráficos de maneira simples e intuitiva. Logo, é uma ferramenta importantíssima, pois com ela iremos extrair os dados fornecidos pela *COMEXSTAT*, assim tomando decisões estratégicas para grandes resultados.
 
 *GitHub:*
 
-O GitHub é uma plataforma que irá auxiliar em todo desenvolvimento do projeto, criar repositórios e hospedar neles todo o processo de desenvolvimento. O que é GitHub e para que serve? O GitHub é uma plataforma de desenvolvimento colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git. A plataforma irá nos ajudar a armazenar e administrar todo o processo.
-
+O GitHub é uma plataforma que irá auxiliar em todo desenvolvimento do projeto, criar repositórios e hospedar neles todo o processo colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git, com o intuito de nos ajudar a armazenar e administrar todo o processo.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *EQUIPE*
