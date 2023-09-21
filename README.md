@@ -180,7 +180,9 @@ Sprint | Previsão | Status|
 # Registros (vídeos e apresentações) das sprints
 _APRESENTAÇÃO SPRINT 00_
 
+
 https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e31df085-09d2-4675-bf4a-a2e2cf359847
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
