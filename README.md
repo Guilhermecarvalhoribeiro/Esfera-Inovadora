@@ -128,6 +128,8 @@ Sprint | Previsão | Status|
  EM ANDAMENTO...
      
 ![ESFERA INOVADORA_ linha do tempo - Jira - Google Chrome 18_09_2023 00_05_11 (2)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/bdd58102-0b99-4782-943f-7073262fd358)
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d96e2f6c-4c7c-4194-95db-25e751f87249)
+
 
 
 <p align="center">
@@ -191,7 +193,7 @@ EM PLANEJAMENTO...
 |      Links       |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |            
 |    [![JiraSoftware Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820843-92d874ba-2d74-4721-8402-b30cd8a4dce2.png)](https://pedrokill.atlassian.net/jira/software/projects/EIO/boards/8/timeline?shared=&atlOrigin=eyJpIjoiMTI3ZTdmNWEzYTZjNGI0NTk5NGFhMGM4NzUzYjY3NWYiLCJwIjoiaiJ9)     
-|    [![JiraSoftware Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820260-f4e46aaa-5dad-49e9-bc09-e6dc37d72b12.png)](https://www.instagram.com/esfera_inovadora/)
+|    [![Instagram Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820260-f4e46aaa-5dad-49e9-bc09-e6dc37d72b12.png)](https://www.instagram.com/esfera_inovadora/)
 
 
 <div id="voltartopo">
