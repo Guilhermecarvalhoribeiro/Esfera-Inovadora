@@ -178,7 +178,8 @@ Sprint | Previsão | Status|
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Registros (vídeos e apresentações) das sprints
-EM PLANEJAMENTO...
+_APRESENTAÇÃO SPRINT 00_
+https://github.com/Guilhermecarvalhoribeiro/Teste/assets/141978882/f519d84c-14ff-4df1-9299-286991f970c2
 
 
 # Backlog do produto
