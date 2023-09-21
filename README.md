@@ -127,7 +127,7 @@ Sprint | Previsão | Status|
 
  EM ANDAMENTO...
      
-![ESFERA INOVADORA_ linha do tempo - Jira - Google Chrome 18_09_2023 00_05_11 (2)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/bdd58102-0b99-4782-943f-7073262fd358)
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/c7befade-e156-4a97-a44c-b9be74bfb1aa)
 
 
 
@@ -178,7 +178,6 @@ Sprint | Previsão | Status|
 # Registros (vídeos e apresentações) das sprints
 EM PLANEJAMENTO...
 
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/c7befade-e156-4a97-a44c-b9be74bfb1aa)
 
 # Backlog do produto
 EM PLANEJAMENTO...
