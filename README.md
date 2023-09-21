@@ -180,7 +180,7 @@ Sprint | Previsão | Status|
 # Registros (vídeos e apresentações) das sprints
 _APRESENTAÇÃO SPRINT 00_
 
-https://github.com/Guilhermecarvalhoribeiro/Teste/assets/141978882/f519d84c-14ff-4df1-9299-286991f970c2
+https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/f4c5c8f1-6111-4926-9b5c-c992808c95aa
 
 
 # Backlog do produto
