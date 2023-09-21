@@ -144,6 +144,8 @@ Sprint | Previsão | Status|
 <p align="center">
       
  EM DESENVOLVIMENTO...
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/fd43178b-8b44-4901-9dfb-95dd2f6a2c43)
+
 
 </details>
   
