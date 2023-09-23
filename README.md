@@ -204,7 +204,7 @@ EM PLANEJAMENTO...
 
 |       _Links_     |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |            
-|    [![JiraSoftware Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820843-92d874ba-2d74-4721-8402-b30cd8a4dce2.png)width="60"](https://pedrokill.atlassian.net/jira/software/projects/EIO/boards/8/timeline?shared=&atlOrigin=eyJpIjoiMTI3ZTdmNWEzYTZjNGI0NTk5NGFhMGM4NzUzYjY3NWYiLCJwIjoiaiJ9)     
+|    [![JiraSoftware Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820843-92d874ba-2d74-4721-8402-b30cd8a4dce2.png width="60" )](https://pedrokill.atlassian.net/jira/software/projects/EIO/boards/8/timeline?shared=&atlOrigin=eyJpIjoiMTI3ZTdmNWEzYTZjNGI0NTk5NGFhMGM4NzUzYjY3NWYiLCJwIjoiaiJ9)     
 |    [![Instagram Badge](https://github-production-user-asset-6210df.s3.amazonaws.com/141979700/267820260-f4e46aaa-5dad-49e9-bc09-e6dc37d72b12.png)](https://www.instagram.com/esfera_inovadora/)
 
 
