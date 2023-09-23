@@ -52,18 +52,15 @@ O GitHub é uma plataforma que irá auxiliar em todo desenvolvimento do projeto,
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *EQUIPE*
 
-| Aluno         | Função           	
-| ---------------- | ---------------- 
-|__Guilherme Carvalho__  | *Product Owner*  
-|__Pedro Augusto__| *Scrum Master* 
-|__Maiara Oliveira__  | *Developer Team*  
-|__Marcos Paulo__  | *Developer Team* 
-|__Maria Rosanelle__ | *Developer Team* 
-|__Pedro Henrique__| *Developer Team*
-|__Paulo Ribeiro__| *Developer Team*
-|__Fábia Mara__| *Developer Team*
-
-![Picsart_23-09-16_23-18-07-580](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/2fdbfd60-f418-4505-8175-8f94d419b2d3)
+| Avatar            							| Aluno         | Função           		
+| -------------------------------------------- | ---------------- | ---------------- 
+| <img src = "./gitimages/guilherme.jpg" width="60" >|__Guilherme Carvalho__  | *Product Owner*  
+| <img src = "./gitimages/Pedro henrique.jpg" width="60" >|__Pedro Henrique__| *Scrum Master* 
+| <img src = "./gitimages/maiara.jpg" width="60" >|__Maiara Oliveira__  | *Developer Team*  
+| <img src = "./gitimages/marcos.jpg" width="60" >|__Marcos Paulo__  | *Developer Team* 
+| <img src = "./gitimages/maria.jpg" width="60" >|__Maria Rosanelle__ | *Developer Team* 
+| <img src = "./gitimages/paulo.jpg" width="60" >|__Paulo Ribeiro__| *Developer Team*
+| <img src = "./gitimages/eu.jpg" width="60" >|__Fábia Mara__| *Developer Team*
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *OBJETIVO DO PROJETO*
