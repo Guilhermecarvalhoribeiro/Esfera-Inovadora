@@ -58,6 +58,7 @@ O GitHub é uma plataforma que irá auxiliar em todo desenvolvimento do projeto,
 | <img src = "./gitimages/Pedro henrique.jpg" width="60" >|__Pedro Henrique__| *Scrum Master* 
 | <img src = "./gitimages/maiara.jpg" width="60" >|__Maiara Oliveira__  | *Developer Team*  
 | <img src = "./gitimages/marcos.jpg" width="60" >|__Marcos Paulo__  | *Developer Team* 
+| <img src = "./gitimages/pedro augusto.jpg" width="60" >|__Marcos Paulo__  | *Developer Team* 
 | <img src = "./gitimages/maria.jpg" width="60" >|__Maria Rosanelle__ | *Developer Team* 
 | <img src = "./gitimages/paulo.jpg" width="60" >|__Paulo Ribeiro__| *Developer Team*
 | <img src = "./gitimages/eu.jpg" width="60" >|__Fábia Mara__| *Developer Team*
