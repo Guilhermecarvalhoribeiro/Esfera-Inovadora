@@ -110,8 +110,8 @@ respostas objetivas.
 Sprint | Previsão | Status|
 |------|--------|------
 |Kick-Off | 04/09/2023 | Concluído |
-|Apresentação| 25/09/2023 | Em progresso| 
-|01|  16/10/2023| A fazer| 
+|Apresentação| 25/09/2023 | Concluido | 
+|01|  16/10/2023| Em Progresso | 
 |02| 06/11/2023 | A fazer|
 |03| 27/11/2023 |A fazer | 
 |Feira de Soluções|12/12/2023 |A fazer|
