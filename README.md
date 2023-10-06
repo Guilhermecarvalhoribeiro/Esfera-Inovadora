@@ -125,7 +125,8 @@ Sprint | Previsão | Status|
 
  EM ANDAMENTO...
      
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/449cf856-5ff5-434a-9e25-416309d9b6db)
+![Captura de Tela (11)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e33cacd1-42df-48c2-a9df-bd62a9259a8b)
+
 
 
 
