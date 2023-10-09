@@ -199,7 +199,7 @@ EM PLANEJAMENTO...
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-|       _Links_     |           
+# *Links*           
 [<img src = "./GITIMAGESlinks/INSTAGRAM.png" width="500">](<https://www.instagram.com/esfera_inovadora/>) [<img src = "./GITIMAGESlinks/JIRA.png" width="500" >](<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>)
 
 
