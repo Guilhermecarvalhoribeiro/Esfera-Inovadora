@@ -181,14 +181,8 @@ https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e3
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Backlog do produto
-EM PLANEJAMENTO...
-
-# Competências desenvolvidas
-EM PLANEJAMENTO...
-
 # Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+|    Função     | Nome                                  |  LinkedIn & GitHub |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Guilherme Carvalho       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222 ) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro )              |
 | Scrum Master  | Pedro Augusto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-augusto-97078b287) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Pedrovoisk )     |
