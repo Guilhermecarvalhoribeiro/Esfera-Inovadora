@@ -123,7 +123,7 @@ Sprint | Previsão | Status|
 
  EM ANDAMENTO...
      
-![Captura de Tela (11)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e33cacd1-42df-48c2-a9df-bd62a9259a8b)
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/7e6810b9-f9c1-4d34-b67b-cdeb1033ff41)
 
 
 
@@ -143,7 +143,8 @@ Sprint | Previsão | Status|
       
  EM DESENVOLVIMENTO...
 
-![Captura de Tela (11)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e33cacd1-42df-48c2-a9df-bd62a9259a8b)
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/7dfb14b4-0d0e-47c4-96c9-317af4b95873)
+
 
 </details>
   
