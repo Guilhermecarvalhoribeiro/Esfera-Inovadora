@@ -117,7 +117,7 @@ Sprint | Previsão | Status|
 <details>
 <summary>Apresentação</summary>
 
->Backlog
+>Backlog do Projeto
 <div id="top"></div>
 <p align="center">
 
@@ -137,7 +137,7 @@ Sprint | Previsão | Status|
 <summary>Sprint 01</summary>
 
 
->Backlog
+>Backlog da Sprint
 <div id="top"></div>
 <p align="center">
       
@@ -152,7 +152,7 @@ Sprint | Previsão | Status|
 <details>
 <summary>Sprint 02</summary>
 
->Backlog
+>Backlog da Sprint
 <div id="top"></div>
 <p align="center">
     
@@ -164,7 +164,7 @@ Sprint | Previsão | Status|
 <details>
 <summary>Sprint 03</summary>
 
->Backlog
+>Backlog da Sprint
 <div id="top"></div>
 <p align="center">
     
