@@ -143,6 +143,7 @@ Sprint | Previsão | Status|
       
  EM DESENVOLVIMENTO...
 
+![Captura de Tela (11)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e33cacd1-42df-48c2-a9df-bd62a9259a8b)
 
 </details>
   
