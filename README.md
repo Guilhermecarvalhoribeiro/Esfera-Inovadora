@@ -93,9 +93,9 @@ respostas objetivas.
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *A ESFERA INOVADORA*
 
-* Missão: Temos como missão entregar todos os resultados com qualidade.
+* Missão: Entregar todos os resultados com qualidade.
 
-* Visão: Evoluir conforme o mercado tornando-se referência com grandes feedbacks positivos.
+* Visão: Evoluir conforme o mercado, tornando-se referência com feedbacks positivos.
 
 * Valores: Planejamento, organização, qualidade, responsabilidade e comprometimento.
 
