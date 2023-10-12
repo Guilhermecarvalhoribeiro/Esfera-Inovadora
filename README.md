@@ -196,7 +196,7 @@ https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e3
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # *Links*           
---- [<img src = "./GITIMAGESlinks/INSTAGRAM.png" width="400">](<https://www.instagram.com/esfera_inovadora/>) [<img src = "./GITIMAGESlinks/JIRA.png" width="400" >](<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) ---
+-- [<img src = "./GITIMAGESlinks/INSTAGRAM.png" width="400">](<https://www.instagram.com/esfera_inovadora/>) [<img src = "./GITIMAGESlinks/JIRA.png" width="400" >](<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) --
 
 
 <div id="voltartopo">
