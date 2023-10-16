@@ -145,14 +145,15 @@ Sprint | Previsão | Status|
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/7dfb14b4-0d0e-47c4-96c9-317af4b95873)
 
-
-</details>
-
-  >Burndown da Sprint
+ >Burndown da Sprint
 <div id="top"></div>
 <p align="center">
 
 ![Imagem do WhatsApp de 2023-10-14 à(s) 21 58 37_97ff390d](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/5fee2647-8ff9-4048-9afc-43fdd87ee7c2)
+
+
+</details>
+
 
 
 <details>
