@@ -114,7 +114,7 @@ Sprint | Previsão | Status|
 |------|--------|------
 |Kick-Off | 04/09/2023 | Concluído |
 |Apresentação| 25/09/2023 | Concluído | 
-|01|  16/10/2023| Em Progresso | 
+|01|  16/10/2023| Concluído | 
 |02| 06/11/2023 | A fazer|
 |03| 27/11/2023 |A fazer | 
 |Feira de Soluções|12/12/2023 |A fazer|
