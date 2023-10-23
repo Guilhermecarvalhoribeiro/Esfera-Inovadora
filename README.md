@@ -119,23 +119,7 @@ Sprint | Previsão | Status|
 |03| 27/11/2023 |A fazer | 
 |Feira de Soluções|12/12/2023 |A fazer|
 
-<details>
-<summary>Apresentação</summary>
 
->Backlog do Projeto
-<div id="top"></div>
-<p align="center">
-
- EM ANDAMENTO...
-     
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/7e6810b9-f9c1-4d34-b67b-cdeb1033ff41)
-
-
-
-
-
-<p align="center">
-  
 </details>
 
 <details>
