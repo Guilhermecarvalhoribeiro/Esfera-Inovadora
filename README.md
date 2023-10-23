@@ -167,7 +167,7 @@ Sprint | Previsão | Status|
 <details>
 <summary>Sprint 03</summary>
 
->Backlog da Sprint
+>
 <div id="top"></div>
 <p align="center">
     
