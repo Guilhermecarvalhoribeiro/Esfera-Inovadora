@@ -156,6 +156,10 @@ Sprint | Previsão | Status|
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d0dc1165-ff35-4dd3-9414-3e8d60ccf3ad)
 
+ >Burndown da Sprint
+<div id="top"></div>
+<p align="center">
+
 
 </details>
   
