@@ -108,6 +108,7 @@ respostas objetivas.
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *Dashboard*
 
+![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/54abbcd0-f609-4f84-a651-7a126b7c7288)
 
 
 
