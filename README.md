@@ -102,10 +102,6 @@ respostas objetivas.
 ![GIF-230916_221947](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6737278e-3d8a-42bb-8425-b7e971a2fa28)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# *5W2H*
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
 # *Dashboard*
 
 ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/54abbcd0-f609-4f84-a651-7a126b7c7288)<p align="center">
