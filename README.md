@@ -177,7 +177,7 @@ respostas objetivas.
 
 
 
-<p align="right">(<a href="#top">voltar ao topo</a>)</p>
+<p align="right"> <a href="#top">Voltar ao topo</a> </p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
