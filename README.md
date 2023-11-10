@@ -208,4 +208,4 @@ https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e3
 	<a href="#" id="subir">Voltar ao Topo</a>
 </div>
 
-<p align="LEFT">(<a href="#top">voltar ao topo</a>)</p>
+<p align="right"> <a href="#top">voltar ao topo</a> </p>
