@@ -204,8 +204,5 @@ https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e3
  [<img src = "./GITIMAGESlinks/INSTAGRAM.png" width="400">](<https://www.instagram.com/esfera_inovadora/>) [<img src = "./GITIMAGESlinks/JIRA.png" width="400" >](<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) 
 
 
-<div id="voltartopo">
-	<a href="#" id="subir">Voltar ao Topo</a>
-</div>
 
-<p align="right"> <a href="#top">voltar ao topo</a> </p>
+<p align="right"> <a href="#top">Voltar ao topo</a> </p>
