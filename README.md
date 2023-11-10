@@ -72,7 +72,7 @@ Sprint | Previsão | Status|
 <div id="top"></div>
 <p align="center">
     
-  EM DESENVOLVIMENTO...
+  CONCLUIDO...
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d0dc1165-ff35-4dd3-9414-3e8d60ccf3ad)
 
@@ -177,72 +177,6 @@ respostas objetivas.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-# *Cronograma*
-
-Sprint | Previsão | Status|
-|------|--------|------
-|Kick-Off | 04/09/2023 | Concluído |
-|Apresentação| 25/09/2023 | Concluído | 
-|01|  16/10/2023| Concluído | 
-|02| 06/11/2023 | A fazer|
-|03| 27/11/2023 |A fazer | 
-|Feira de Soluções|12/12/2023 |A fazer|
-
-
-</details>
-
-<details>
-<summary>Sprint 01</summary>
-
-
->Backlog da Sprint
-<div id="top"></div>
-<p align="center">
-      
- CONCLUIDO...
-
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/7dfb14b4-0d0e-47c4-96c9-317af4b95873)
-
- >Burndown da Sprint
-<div id="top"></div>
-<p align="center">
-
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2aefd50d-9448-4307-8ca2-e83d8753e20a)
-
-
-</details>
-
-
-
-<details>
-<summary>Sprint 02</summary>
-
->Backlog da Sprint
-<div id="top"></div>
-<p align="center">
-    
-  EM DESENVOLVIMENTO...
-
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d0dc1165-ff35-4dd3-9414-3e8d60ccf3ad)
-
- >Burndown da Sprint
-<div id="top"></div>
-<p align="center">
-
-
-</details>
-  
-
-<details>
-<summary>Sprint 03</summary>
-
->
-<div id="top"></div>
-<p align="center">
-    
-  EM DESENVOLVIMENTO...
-  
-</details>
 
 <p align="right">(<a href="#top">voltar ao topo</a>)</p>
 
