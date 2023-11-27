@@ -80,6 +80,8 @@ Sprint | Previsão | Status|
 <div id="top"></div>
 <p align="center">
 
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/20d868f2-fcee-4718-9de2-b619a4fed009)
+
 
 </details>
   
