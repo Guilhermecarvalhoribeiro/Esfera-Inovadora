@@ -87,6 +87,18 @@ Sprint | Previsão | Status|
   
 
 <details>
+>Sprint 03
+
+<div id="top"></div>
+<p align="center">
+    
+  CONCLUIDO...
+  
+</details>
+
+
+
+<details>
 <summary>Sprint 03</summary>
 
 <div id="top"></div>
@@ -96,17 +108,6 @@ Sprint | Previsão | Status|
   
 </details>
 
-
-
-
->Sprint 03
-
-<div id="top"></div>
-<p align="center">
-    
-  CONCLUIDO...
-  
-</details>
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # *TECNOLOGIAS QUE SERÃO UTILIZADAS*
