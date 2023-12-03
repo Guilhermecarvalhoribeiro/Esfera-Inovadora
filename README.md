@@ -86,15 +86,13 @@ Sprint | Previsão | Status|
 </details>
   
 
-<details>
->Sprint 03
+Sprint 03
 
 <div id="top"></div>
 <p align="center">
     
-  CONCLUIDO...
+>CONCLUIDO...
   
-</details>
 
 
 
