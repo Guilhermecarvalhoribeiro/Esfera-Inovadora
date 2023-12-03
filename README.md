@@ -10,14 +10,19 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 # *ÍNDICE*
 
 * Projeto
-* Tecnologias utilizadas
-* Equipe
-* Objetivo do Projeto
 * Cronograma das Sprints
 * Registros (vídeos e apresentações) 
+* Objetivo do Projeto
+* A Esfera Inovadora
+* Sprints
 * Backlog do produto
-* Competências desenvolvidas
-* Autores
+* Dashboard
+* Tecnologias Utilizadas
+* Equipe
+* Departamentalização
+* Análise Swot
+* Autores 
+* Links
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *PROJETO (API)* 
@@ -47,39 +52,6 @@ https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e3
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# *TECNOLOGIAS UTILIZADAS*
-
-![Picsart_23-09-16_23-46-54-235](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6b2013b9-5234-40b2-ba70-fbeaceddd1a8)
-
-*5W2H:*
-
-A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, por que, onde, quem irá fazer, quando será realizado, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
-
-*Jira Software:*
-
-Com ele, podemos trazer inúmeros benefícios para o melhor desenvolvimento do projeto, entre eles estão: otimização do tempo de trabalho, organização e ordenamento de atendimentos, maior transparência para o projeto, mais praticidade em seu gerenciamento, além de documentação otimizada e emissão de relatórios completos.
-
-*Power BI:*
-
-O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvida pela Microsoft. Com ela, dados são transformados em informação, sendo possível gerar relatórios e dashboards que mostram números, estatísticas, valores, listas e gráficos de maneira simples e intuitiva. Logo, é uma ferramenta importantíssima, pois com ela iremos extrair os dados fornecidos pela *COMEXSTAT*, assim tomando decisões estratégicas para grandes resultados.
-
-*GitHub:*
-
-O GitHub é uma plataforma que irá auxiliar em todo desenvolvimento do projeto, criar repositórios e hospedar neles todo o processo colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git, com o intuito de nos ajudar a armazenar e administrar todo o processo.
-
-------------------------------------------------------------------------------------------------------------------------------------------
-# *EQUIPE*
-
-| Avatar            							| Aluno         | Função           		
-| -------------------------------------------- | ---------------- | ---------------- 
-| <img src = "./gitimages/guilherme.jpg" width="60" >|__Guilherme Carvalho__  | *Product Owner*  
-| <img src = "./gitimages/Pedro henrique.jpg" width="60" >|__Pedro Augusto__| *Scrum Master* 
-| <img src = "./gitimages/maiara.jpg" width="60" >|__Maiara Oliveira__  | *Developer Team*  
-| <img src = "./gitimages/pedro augusto.jpg" width="60" >|__Pedro Henrique__  | *Developer Team* 
-| <img src = "./gitimages/paulo.jpg" width="60" >|__Paulo Ribeiro__| *Developer Team*
-| <img src = "./gitimages/eu.jpg" width="60" >|__Fábia Mara__| *Developer Team*
-
-------------------------------------------------------------------------------------------------------------------------------------------
 # *OBJETIVO DO PROJETO*
 * Mapeamento de cargas de importação e exportação;
 * Organizar e estruturar as informações;
@@ -179,6 +151,41 @@ _Exportações_
 
 
 <p align="right"> <a href="#top">Voltar ao topo</a> </p>
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# *TECNOLOGIAS UTILIZADAS*
+
+![Picsart_23-09-16_23-46-54-235](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6b2013b9-5234-40b2-ba70-fbeaceddd1a8)
+
+*5W2H:*
+
+A ferramenta 5W2H é um checklist administrativo de atividades, prazos e responsabilidades que devem ser desenvolvidas com clareza e eficiência por todos os envolvidos do projeto. Tem como função definir o que será feito, por que, onde, quem irá fazer, quando será realizado, como e quanto custará, trazendo mais autonomia para termos grandes resultados com feedbacks positivos.
+
+*Jira Software:*
+
+Com ele, podemos trazer inúmeros benefícios para o melhor desenvolvimento do projeto, entre eles estão: otimização do tempo de trabalho, organização e ordenamento de atendimentos, maior transparência para o projeto, mais praticidade em seu gerenciamento, além de documentação otimizada e emissão de relatórios completos.
+
+*Power BI:*
+
+O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvida pela Microsoft. Com ela, dados são transformados em informação, sendo possível gerar relatórios e dashboards que mostram números, estatísticas, valores, listas e gráficos de maneira simples e intuitiva. Logo, é uma ferramenta importantíssima, pois com ela iremos extrair os dados fornecidos pela *COMEXSTAT*, assim tomando decisões estratégicas para grandes resultados.
+
+*GitHub:*
+
+O GitHub é uma plataforma que irá auxiliar em todo desenvolvimento do projeto, criar repositórios e hospedar neles todo o processo colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git, com o intuito de nos ajudar a armazenar e administrar todo o processo.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# *EQUIPE*
+
+| Avatar            							| Aluno         | Função           		
+| -------------------------------------------- | ---------------- | ---------------- 
+| <img src = "./gitimages/guilherme.jpg" width="60" >|__Guilherme Carvalho__  | *Product Owner*  
+| <img src = "./gitimages/Pedro henrique.jpg" width="60" >|__Pedro Augusto__| *Scrum Master* 
+| <img src = "./gitimages/maiara.jpg" width="60" >|__Maiara Oliveira__  | *Developer Team*  
+| <img src = "./gitimages/pedro augusto.jpg" width="60" >|__Pedro Henrique__  | *Developer Team* 
+| <img src = "./gitimages/paulo.jpg" width="60" >|__Paulo Ribeiro__| *Developer Team*
+| <img src = "./gitimages/eu.jpg" width="60" >|__Fábia Mara__| *Developer Team*
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
