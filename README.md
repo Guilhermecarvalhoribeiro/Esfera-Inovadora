@@ -72,6 +72,8 @@ _CONCLUIDO..._
 
 >Backlog da Sprint
 
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d5b61eef-c9ec-4dd2-9304-04922ed725c9)
+
 
 >Burndown da Sprint
 
