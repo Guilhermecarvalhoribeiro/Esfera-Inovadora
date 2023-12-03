@@ -47,50 +47,7 @@ https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e3
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Sprint 01
-_CONCLUIDO..._
-
->Backlog da Sprint
-
-
-![Picsart_23-12-03_14-02-35-979.png](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6ad19871-84d9-4743-8d56-1ca3cecbd6ea)
-
->Burndown da Sprint
-
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2aefd50d-9448-4307-8ca2-e83d8753e20a)
-
-
-
-
-
-Sprint 02
-  _CONCLUIDO..._
-
->Backlog da Sprint
-
-
-![Picsart_23-12-03_14-02-51-778.png](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/d65937d5-046e-4516-be23-ba472a89635f)
->Burndown da Sprint
-
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/247a3bf9-0487-4b9a-a798-c0c3d009ca20)
-
-  
-
-Sprint 03
-_CONCLUIDO..._
-
->Backlog da Sprint
-
-
-
-![Picsart_23-12-03_15-42-18-659.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/5e595163-3d83-4a45-9863-fe3eb3e784c7)
->Burndown da Sprint
-
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2866f437-1f0f-4b00-a1ac-a5bfe96a5e20)
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-# *TECNOLOGIAS QUE SERÃO UTILIZADAS*
+# *TECNOLOGIAS UTILIZADAS*
 
 ![Picsart_23-09-16_23-46-54-235](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6b2013b9-5234-40b2-ba70-fbeaceddd1a8)
 
@@ -163,6 +120,52 @@ respostas objetivas.
 ![GIF-230916_221947](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6737278e-3d8a-42bb-8425-b7e971a2fa28)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+# *Sprints*
+
+Sprint 01
+_CONCLUIDO..._
+
+>Backlog da Sprint
+
+
+![Picsart_23-12-03_14-02-35-979.png](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6ad19871-84d9-4743-8d56-1ca3cecbd6ea)
+
+>Burndown da Sprint
+
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2aefd50d-9448-4307-8ca2-e83d8753e20a)
+
+
+
+
+
+Sprint 02
+  _CONCLUIDO..._
+
+>Backlog da Sprint
+
+
+![Picsart_23-12-03_14-02-51-778.png](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/d65937d5-046e-4516-be23-ba472a89635f)
+>Burndown da Sprint
+
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/247a3bf9-0487-4b9a-a798-c0c3d009ca20)
+
+  
+
+Sprint 03
+_CONCLUIDO..._
+
+>Backlog da Sprint
+
+
+
+![Picsart_23-12-03_15-42-18-659.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/5e595163-3d83-4a45-9863-fe3eb3e784c7)
+>Burndown da Sprint
+
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2866f437-1f0f-4b00-a1ac-a5bfe96a5e20)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 # *Dashboard*
 
 _Importações_
