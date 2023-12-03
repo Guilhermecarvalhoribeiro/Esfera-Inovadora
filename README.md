@@ -58,8 +58,7 @@ Sprint 02
 
 >Backlog da Sprint
 
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d0dc1165-ff35-4dd3-9414-3e8d60ccf3ad)
-
+![Picsart_23-12-03_13-10-58-357.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/53e6b3db-00c3-4949-be2c-8c9d0ad45ce3)
 >Burndown da Sprint
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/247a3bf9-0487-4b9a-a798-c0c3d009ca20)
