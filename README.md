@@ -68,7 +68,7 @@ Sprint | Previsão | Status|
 <summary>Sprint 02</summary>
 
     
-  _CONCLUIDO..._
+  _CONCLUIDO...
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d0dc1165-ff35-4dd3-9414-3e8d60ccf3ad)
 
