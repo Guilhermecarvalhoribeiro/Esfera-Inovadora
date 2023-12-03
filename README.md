@@ -40,61 +40,43 @@ Sprint | Previsão | Status|
 |Feira de Soluções|12/12/2023 |Concluído|
 
 
-</details>
-
-<details>
-<summary>Sprint 01</summary>
-
+Sprint 01
+_CONCLUIDO..._
 
 >Backlog da Sprint
-<div id="top"></div>
-<p align="center">
-      
- CONCLUIDO...
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/7dfb14b4-0d0e-47c4-96c9-317af4b95873)
 
  >Burndown da Sprint
-<div id="top"></div>
-<p align="center">
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2aefd50d-9448-4307-8ca2-e83d8753e20a)
 
 
-</details>
 
 
 
-<summary>Sprint 02</summary>
-
-    
+Sprint 02
   _CONCLUIDO..._
 
 >Backlog da Sprint
+
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d0dc1165-ff35-4dd3-9414-3e8d60ccf3ad)
 
- >Burndown da Sprint
+>Burndown da Sprint
+
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/247a3bf9-0487-4b9a-a798-c0c3d009ca20)
 
   
 
 Sprint 03
-
-    
 _CONCLUIDO..._
-  
+
+>Backlog da Sprint
 
 
+>Burndown da Sprint
 
-<details>
-<summary>Sprint 03</summary>
-
-<div id="top"></div>
-<p align="center">
-    
-  CONCLUIDO...
-  
-</details>
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2866f437-1f0f-4b00-a1ac-a5bfe96a5e20)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
