@@ -156,7 +156,8 @@ _Exportações_
 
 # *TECNOLOGIAS UTILIZADAS*
 
-![Picsart_23-09-16_23-46-54-235](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6b2013b9-5234-40b2-ba70-fbeaceddd1a8)
+![MicrosoftTeams-image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/2a8fcf34-b897-44c0-a7b3-20ec4888fd2b)
+
 
 *5W2H:*
 
