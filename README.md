@@ -99,7 +99,6 @@ Sprint | Previsão | Status|
 
 
 
-<details>
 Sprint 03
 
 <div id="top"></div>
