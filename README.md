@@ -160,6 +160,8 @@ _Importações_
 
 _Exportações_
 
+![IMG-20231203-WA0003.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/42485a68-cd25-47ae-ac65-b8ad3efc4bac)
+
 
 
 <p align="right"> <a href="#top">Voltar ao topo</a> </p>
