@@ -14,7 +14,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 * Equipe
 * Objetivo do Projeto
 * Cronograma das Sprints
-* Registros (vídeos e apresentações) das sprints
+* Registros (vídeos e apresentações) 
 * Backlog do produto
 * Competências desenvolvidas
 * Autores
@@ -38,6 +38,14 @@ Sprint | Previsão | Status|
 |03| 27/11/2023 | Concluído | 
 |Feira de Soluções|12/12/2023 |Concluído|
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Registros (vídeos e apresentações) 
+_APRESENTAÇÃO DO PROJETO_
+
+https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e31df085-09d2-4675-bf4a-a2e2cf359847
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Sprint 01
 _CONCLUIDO..._
@@ -171,17 +179,9 @@ _Exportações_
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Registros (vídeos e apresentações) das sprints
-_APRESENTAÇÃO DO PROJETO_
-
-https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e31df085-09d2-4675-bf4a-a2e2cf359847
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
 # Departamentalização
 
 ![Captura de Tela (1)](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/6cd5deb6-9798-42e1-89c0-54f63e28861f)
-
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
