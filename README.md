@@ -44,7 +44,6 @@ _CONCLUIDO..._
 
 >Backlog da Sprint
 
-
 ![Picsart_23-12-03_13-09-55-197.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/ff16c148-a0c0-4d5e-a085-0f2dce825e04)
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2aefd50d-9448-4307-8ca2-e83d8753e20a)
@@ -70,8 +69,7 @@ _CONCLUIDO..._
 
 >Backlog da Sprint
 
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d5b61eef-c9ec-4dd2-9304-04922ed725c9)
-
+![Picsart_23-12-03_13-14-46-290.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/5290f2d7-35e7-42d5-92ab-dfc3ef21d134)
 
 >Burndown da Sprint
 
