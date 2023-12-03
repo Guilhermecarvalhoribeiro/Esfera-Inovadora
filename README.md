@@ -175,6 +175,27 @@ O Power BI é uma ferramenta de avaliação e visualização de dados desenvolvi
 
 O GitHub é uma plataforma que irá auxiliar em todo desenvolvimento do projeto, criar repositórios e hospedar neles todo o processo colaborativo que aloja projetos na nuvem utilizando o sistema de controle de versões chamado Git, com o intuito de nos ajudar a armazenar e administrar todo o processo.
 
+*PicsArt:*
+
+ Com o aplicativo editamos fotos, fizemos colagens, adicionamos stickers, o picsart foi muito util na criação do nosso logotipo e custumizações para o projeto, como banners e efeitos artisticos.
+
+*Canva:*
+
+O Canva é uma plataforma online de design e comunicação visual que tem como missão colocar o poder do design ao alcance de todas as pessoas do mundo, para que elas possam criar o que quiserem e publicar suas criações onde quiserem. O aplicativo nos auxiliou no modelo para o desenvolvimento inicial do nosso GitHub, nos dando o design e uma séries de ideias inovadoras.
+
+*Word*
+
+O Microsoft Word é um programa de processamento de texto, projetado para criar documentos de qualidade profissional. O microsoft word nos auxiliou ao longo das sprints em todas as partes de documentações de todo o projeto.
+
+*Excel*
+
+O Excel nos permitiu selecionar, organizar, identificar e classificar dados, oferecendo muitas possibilidades para personalização e organização da equipe e do projeto.
+
+*PowerPoint*
+
+O programa utilizado para criação/edição e exibição de apresentações gráficas, nos ajudou no planejamento e elaborações das apresentações ao longo do projeto, e no fim para a feira de soluções.
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # *EQUIPE*
