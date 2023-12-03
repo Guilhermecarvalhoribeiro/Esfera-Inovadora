@@ -89,11 +89,10 @@ Sprint | Previsão | Status|
 <details>
 <summary>Sprint 03</summary>
 
->
 <div id="top"></div>
 <p align="center">
     
-  EM DESENVOLVIMENTO...
+  CONCLUIDO...
   
 </details>
 
