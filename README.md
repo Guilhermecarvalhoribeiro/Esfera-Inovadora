@@ -99,7 +99,7 @@ Sprint | Previsão | Status|
 
 
 
-Sprint 03
+>Sprint 03
 
 <div id="top"></div>
 <p align="center">
