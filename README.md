@@ -65,31 +65,22 @@ Sprint | Previsão | Status|
 
 
 
-<details>
 <summary>Sprint 02</summary>
 
->Backlog da Sprint
-<div id="top"></div>
-<p align="center">
     
-  CONCLUIDO...
+  _CONCLUIDO..._
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/d0dc1165-ff35-4dd3-9414-3e8d60ccf3ad)
 
  >Burndown da Sprint
-<div id="top"></div>
-<p align="center">
+![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/247a3bf9-0487-4b9a-a798-c0c3d009ca20)
 
-![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/20d868f2-fcee-4718-9de2-b619a4fed009)
-
-
-</details>
   
 
 Sprint 03
 
     
->CONCLUIDO...
+_CONCLUIDO..._
   
 
 
