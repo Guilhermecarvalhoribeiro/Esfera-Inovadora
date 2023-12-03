@@ -75,7 +75,7 @@ _CONCLUIDO..._
 
 
 
-![Picsart_23-12-03_15-25-32-956.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/2a128ae1-ab5a-414e-8ff8-696663096b71)
+![Picsart_23-12-03_15-38-38-576.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/55fa9204-58c7-4156-84fa-8678344b77c0)
 >Burndown da Sprint
 
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/2866f437-1f0f-4b00-a1ac-a5bfe96a5e20)
