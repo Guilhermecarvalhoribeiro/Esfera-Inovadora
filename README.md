@@ -154,8 +154,11 @@ respostas objetivas.
 ------------------------------------------------------------------------------------------------------------------------------------------
 # *Dashboard*
 
-![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/54abbcd0-f609-4f84-a651-7a126b7c7288)<p align="center">
+_Importações_
 
+![IMG-20231203-WA0002.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/25b31564-6655-4c82-a742-3297074db8be)
+
+_Exportações_
 
 
 
