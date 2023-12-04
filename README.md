@@ -154,7 +154,7 @@ _Exportações_
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# *TECNOLOGIAS UTILIZADAS*
+# *FERRAMENTAS UTILIZADAS*
 
 ![Picsart_23-12-03_20-55-31-117.jpg](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/ae4d6cb1-d85c-445b-9783-ebac6bb9d7bb)
 
