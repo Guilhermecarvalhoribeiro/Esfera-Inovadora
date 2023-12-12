@@ -240,9 +240,11 @@ O programa utilizado para criação/edição e exibição de apresentações gr�
 
 # *Links*           
  
-[<img src = "./GITIMAGESlinks/INSTAGRAM.png" width="400">](<https://www.instagram.com/esfera_inovadora/>) 
+ [<img src = "./GITIMAGESlinks/INSTAGRAM.png" width="400">]
+(<https://www.instagram.com/esfera_inovadora/>) 
  
-[<img src = "./GITIMAGESlinks/JIRA.png" width="400" >](<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) 
+ [<img src = "./GITIMAGESlinks/JIRA.png" width="400" >]
+(<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) 
 
 
 <p align="right"> <a href="#top">Voltar ao topo</a> </p>
