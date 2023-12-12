@@ -236,13 +236,10 @@ O programa utilizado para criação/edição e exibição de apresentações gr�
 | Developer Team | Fábia Mara |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabia-m-p-fernandes) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FabiaMPF )     |
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+      
 
 # *Links*           
-
-
-[<img src =./GITIMAGESlinks/JIRA.png"width="400">]
-(<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) 
-
+ [<img src = "./GITIMAGESlinks/INSTAGRAM.png" width="400">](<https://www.instagram.com/esfera_inovadora/>) [<img src = "./GITIMAGESlinks/JIRA.png" width="400" >](<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) 
 
 
 <p align="right"> <a href="#top">Voltar ao topo</a> </p>
