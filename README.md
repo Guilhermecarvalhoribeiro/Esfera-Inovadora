@@ -240,7 +240,7 @@ O programa utilizado para criação/edição e exibição de apresentações gr�
 # *Links*           
 
 
- [<img src = "./GITIMAGESlinks/JIRA.png" width="400" >](<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) 
+[<img src = "./GITIMAGESlinks/JIRA.png" width="400">](<https://pedrokill.atlassian.net/jira/projects?selectedProjectType=software>) 
 
 
 
