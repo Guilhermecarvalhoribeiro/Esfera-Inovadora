@@ -11,7 +11,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 * Projeto
 * Cronograma das Sprints
-* Registros (vídeos e apresentações) 
 * Objetivo do Projeto
 * A Esfera Inovadora
 * Sprints
@@ -42,13 +41,6 @@ Sprint | Previsão | Status|
 |02| 06/11/2023 | Concluído |
 |03| 27/11/2023 | Concluído | 
 |Feira de Soluções|12/12/2023 |Concluído|
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-# Registros (vídeos e apresentações) 
-_APRESENTAÇÃO DO PROJETO_
-
-https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141978882/e31df085-09d2-4675-bf4a-a2e2cf359847
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
