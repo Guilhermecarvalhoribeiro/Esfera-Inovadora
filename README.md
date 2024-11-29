@@ -115,8 +115,6 @@ Sprint 02
 ![image](https://github.com/Guilhermecarvalhoribeiro/Esfera-Inovadora/assets/141979700/247a3bf9-0487-4b9a-a798-c0c3d009ca20)
 
 
->Backlog da Sprint
-![image](https://github.com/user-attachments/assets/c227ba08-ea2b-4177-b14a-1a1bc7cdf4ab)
 
 
 Sprint 03
